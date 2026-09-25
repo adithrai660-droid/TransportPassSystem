@@ -9,22 +9,15 @@ iv)  UserLogin(1): https://github.com/user-attachments/assets/d519b93c-8d2f-429b
 
 v)   UserLogin(2) :  https://github.com/user-attachments/assets/435ca907-cbee-405f-9e51-aca2875da487
                 
- iv)AdminLogin :
-              https://github.com/user-attachments/assets/0488a263-7ede-41ee-adcc-c613d48a6df3
+ vi)AdminLogin(1) :https://github.com/user-attachments/assets/0488a263-7ede-41ee-adcc-c613d48a6df3
               
-              https://github.com/user-attachments/assets/2c3cb7f0-bc4a-4baa-b821-a64060eb6ea3
+  vii)AdminLogin(2) :https://github.com/user-attachments/assets/2c3cb7f0-bc4a-4baa-b821-a64060eb6ea3
               
-    PassApplicationStatus:
-    https://github.com/user-attachments/assets/9bd9a54f-8f3e-4da4-bd7c-f0d2352479e8
+PassApplicationStatus:https://github.com/user-attachments/assets/9bd9a54f-8f3e-4da4-bd7c-f0d2352479e8
     
-    UpdatePassStatus:
-    https://github.com/user-attachments/assets/3dfc3026-c157-4f1f-9bc3-173c6c112c90 
-    AfterUpdateStatus:
-    
-    https://github.com/user-attachments/assets/88eb685d-a23f-4f13-85fa-ecd264bdc1e2
-    DeletePassApplication:https:
-    
-    //github.com/user-attachments/assets/4404d403-bf40-477a-a7c8-582255589ac9
+ UpdatePassStatus:https://github.com/user-attachments/assets/3dfc3026-c157-4f1f-9bc3-173c6c112c90 
+AfterUpdateStatus:https://github.com/user-attachments/assets/88eb685d-a23f-4f13-85fa-ecd264bdc1e2
+DeletePassApplication:https://github.com/user-attachments/assets/4404d403-bf40-477a-a7c8-582255589ac9
 
 
 
