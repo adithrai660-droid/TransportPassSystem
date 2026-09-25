@@ -1,10 +1,9 @@
 i)HomePage:
 https://github.com/user-attachments/assets/3aca16a6-147a-4e7e-a6ca-82a6d8a117c1
 
-ii)UserRegister:
-         1.  :https://github.com/user-attachments/assets/ce7c9aa4-7974-4323-826a-aed6a4314437
+ii)UserRegister(1) :https://github.com/user-attachments/assets/ce7c9aa4-7974-4323-826a-aed6a4314437
          
-         2 :https://github.com/user-attachments/assets/cc012157-d42d-44bf-b8f1-c803e4ae9
+    UserRegister(2) :https://github.com/user-attachments/assets/cc012157-d42d-44bf-b8f1-c803e4ae9
 
 iii)  UserLogin:
            https://github.com/user-attachments/assets/d519b93c-8d2f-429b-ac64-51f2f8a95682
